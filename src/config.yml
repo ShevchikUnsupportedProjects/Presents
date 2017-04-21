@@ -1,0 +1,9 @@
+settings:
+  skull-owner: 'MHF_Chest'
+  commands:
+  - 'say %name'
+messages:
+  already-found: '&cYou already found this present.'
+  already-found-all: '&cYou already found all presents.'
+  present-placed: '&aPresent has been placed.'
+  present-found: '&aYou found %current/%max presents!'

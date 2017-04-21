@@ -1,0 +1,8 @@
+name: Presents
+version: 2.0
+authors:
+- xDark
+- _Shevchik_
+main: me.xDark.presents.Presents
+commands:
+  presentseditmode: {}
